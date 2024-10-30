@@ -5,5 +5,5 @@ Estou estudando programação e desenvolvimento de sites. Formada em Economia h�
 
 *   🌍 Estou residindo em Borrazópolis, BR
 *   🧠 Estou aprendendo e estudando programação e desenvolvimento de sites como Freelancer
-*   🤝 Estou aberta a colaborar para novos projetos, desenvolvimento de crescimento pessoal e profissional
-*   ⚡  Sou formado em Economia e pós-graduado em Gestão Pública. Estudei Inglês pela Academia Washington e gosto de ler.
+*   🤝 Estou aberta a colaborar para novos projetos e no desenvolvimento de crescimento pessoal e profissional
+*   ⚡  Sou formada em Economia e pós-graduado em Gestão Pública. Estudei Inglês pela Academia Washington e gosto de ler.
