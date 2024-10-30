@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @JessicaP92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá, meu nome é Jéssica Pereira. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===========================================================================================================================================
 
-<!---
-JessicaP92/JessicaP92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estou estudando programação e desenvolvimento de sites. Formada em Economia há mais de 10 anos, atuando em instituição financeira.
+
+*   🌍 Estou residindo em Borrazópolis, BR
+*   🧠 Estou aprendendo e estudando programação e desenvolvimento de sites como Freelancer
+*   🤝 Estou aberta a colaborar para novos projetos, desenvolvimento de crescimento pessoal e profissional
+*   ⚡  Sou formado em Economia e pós-graduado em Gestão Pública. Estudei Inglês pela Academia Washington e gosto de ler.
